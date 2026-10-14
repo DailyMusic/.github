@@ -1,5 +1,4 @@
-![The way you discover new music](https://i.imgur.com/n4mcrta.jpeg)
-# 🎶 **Daily Music・The way you discover new music** 
+# 🎶 **Daily Music・The way to discover new music** 
 
 Daily Music offers daily recommendations, challenges, and historical events to keep your community engaged and active.                                                                                                                                                            
 Across more than **860** servers, Daily Music recommends **20** different musics every day, giving you freedom to find that rare gem.                                                                                                                                          
